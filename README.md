@@ -9,7 +9,7 @@ For example a Hardware Appliance or something similar.
 
 It's based on __DesktopContainers/base-debian__
 
-## Environment variables and defaults
+## Environment variables and defaults 
 
 - __WEB\_URL__
     - specify the url the browser will point to by default e.g. the citrix login portal url
